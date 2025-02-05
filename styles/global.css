@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+@page {
+  margin: 0 auto;
+}
+
 body {
   width: 1100px;
   margin: 0 auto;
